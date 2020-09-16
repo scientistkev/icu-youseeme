@@ -11,7 +11,12 @@ The hallmarks of a successful pathway out of the ICU are hard to spot. A lot of 
 
 ## Conclusions
 
+Predicting patient outcome is a hard thing to do. So, we stuck to a more descriptive model. We tried to visualize outcomes 
+
 ## Future Work
 
-The future work includes 
+The future work includes:
+- Combining with other datasets; NIGMS and Brendt University just released their shared repository (as of August, 2020)
+- Look at other predictive models
+- Cite relevant research
 
